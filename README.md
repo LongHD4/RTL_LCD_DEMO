@@ -3,7 +3,9 @@
 [![Contact Support](https://img.shields.io/badge/Contact-Support-blue?style=for-the-badge)](mailto:longhd4196@gmail.com)
 
 This is a demo using RTL8720 to display on the ILI9488 TFT screen, scan for Wi-Fi networks, and display the graph.
+
 Support both WiFi 2.4GHz and 5GHz.
+
 This library has been tested on RTL8720 with ILI9488 LCD.
 
 ## Library
