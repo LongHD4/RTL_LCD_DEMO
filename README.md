@@ -1,4 +1,4 @@
-# RTLWebServer
+# RTL8720 TFT LCD Demo
 
 [![Contact Support](https://img.shields.io/badge/Contact-Support-blue?style=for-the-badge)](mailto:longhd4196@gmail.com)
 

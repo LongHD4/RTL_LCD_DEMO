@@ -20,7 +20,7 @@
 /*                     EXPORTED TYPES and DEFINITIONS                         */
 /******************************************************************************/
 
-#define WIFI_SCANNING_TIME_S 10    /* Scan network for 10 seconds */
+#define WIFI_SCANNING_TIME_S 15    /* Scan network for 10 seconds */
 #define INVALID_RSSI (-128)
 
 #define MAX_WIFI_SIGNAL 32
@@ -157,5 +157,5 @@ void setup() {
 
 void loop() {
     main_update_analysis();
-    scan_networks(WIFI_SCANNING_TIME_S);    /* Shows analysis 5 seconds before reload */
+    scan_networks(WIFI_SCANNING_TIME_S);    /* Shows analysis 15 seconds before reload */
 }
